@@ -33,6 +33,12 @@ After integrating city-level metadata, certain locations consistently demonstrat
 
 This bar chart illustrates the relative volume of flagged reviews across each category of potential bias. Race-related language appears most frequently, followed by gender and general treatment-related terms. The distribution highlights that racial identity may be the most visible axis of concern in hospitality-related customer feedback.
 
+Additional Visual: Top Cities by Flagged Reviews:
+![top_bias_cities](https://github.com/user-attachments/assets/ce131457-db70-4460-9ee9-a529f329b43e)
+
+ 
+This bar chart illustrates the top cities by total number of reviews flagged for potential bias. Philadelphia, New Orleans, and Tampa had the highest number of flagged reviews, suggesting these locations may be experiencing—or at least generating more feedback related to—racial, gendered, or unfair treatment incidents. The variation across cities underscores the importance of geographically targeted fairness audits. While the absolute number of reviews contributes to these totals, the consistency of elevated bias signals in certain regions may point to underlying patterns in service delivery, demographic dynamics, or staff conduct.
+
 ---
 
 ## Additional Visual: Top Cities by Flagged Reviews
