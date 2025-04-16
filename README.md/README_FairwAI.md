@@ -26,6 +26,9 @@ After integrating city-level metadata, certain locations consistently demonstrat
 ## Visual Evidence
 
 **Bias Flags by Type (Race, Gender, Treatment)**  
+![bias_flag_counts](https://github.com/user-attachments/assets/d0116bec-c1bf-4bb7-995a-3a7573097d59)
+
+
 *Source: bias_flag_counts.png*
 
 This bar chart illustrates the relative volume of flagged reviews across each category of potential bias. Race-related language appears most frequently, followed by gender and general treatment-related terms. The distribution highlights that racial identity may be the most visible axis of concern in hospitality-related customer feedback.
